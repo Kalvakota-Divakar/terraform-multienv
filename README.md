@@ -101,7 +101,7 @@ terraform workspace show
 **Kalvakota Divakar**
 
 - GitHub: https://github.com/Kalvakota-Divakar
-- LinkedIn: https://linkedin.com/in/your-handle
+- LinkedIn: https://www.linkedin.com/in/kalvakota-divakar/
 
 ---
 
